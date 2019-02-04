@@ -1,2 +1,2 @@
 # Hello-World
-Hello world in 5 langugae
+Hello world in 5 languages
